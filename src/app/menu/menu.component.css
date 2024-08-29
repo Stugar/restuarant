@@ -1,5 +1,5 @@
 .card-img-top{
-    width: 280px;
+    width: 286px;
     height: 200px;
 }
 
@@ -7,3 +7,7 @@
     margin: 1rem;
     
 }
+.card{
+    border-radius: 25px;
+}
+
