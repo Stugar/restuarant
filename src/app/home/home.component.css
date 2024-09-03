@@ -1,8 +1,10 @@
 .photomain{
-    width: 100%;
+    width: 95%;
     height: 600px;
 }
 
 .carousel-inner{
     border-radius: 20px;
 }
+
+

@@ -3,5 +3,9 @@
 }
 
 .navbar{
-    border-radius: 10px;
+    border-radius: 1px;
+}
+
+.custom-navbar{
+    background: linear-gradient(#070F2B,#373737);
 }

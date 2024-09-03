@@ -1,0 +1,17 @@
+.textbox{
+    width: 600px;
+    height: auto;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.btn{
+    background-color: rgba(39, 39, 79, 0.679);
+}
+
+.submit{
+    margin-left: 40%;
+}
+
